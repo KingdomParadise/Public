@@ -1,6 +1,0 @@
-https://github.com/Alok255/Text-To-Speech-in-Android-Example-
-https://github.com/mozilla/TTS
-https://github.com/tatirajurishabh/STT-TTS-Android
-https://github.com/topics/tts-android
-https://devtut.github.io/android/text-to-speech-tts.html
-https://developer.android.com/reference/android/speech/tts/TextToSpeech
